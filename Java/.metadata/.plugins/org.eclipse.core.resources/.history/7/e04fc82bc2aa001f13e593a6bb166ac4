@@ -1,0 +1,12 @@
+package lesson3_2.practice1;
+/*
+ * コレクション練習問題3
+ */
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
+
+}

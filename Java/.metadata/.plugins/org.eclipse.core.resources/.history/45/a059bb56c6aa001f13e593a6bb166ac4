@@ -1,0 +1,19 @@
+package lesson3_2.practice1;
+/*
+ * コレクション練習問題3
+ */
+public class Main {
+
+	public static void main(String[] args) {
+		// ArrayListを使用して、整数のリストを作成
+		
+		// リストに以下の値を追加：
+		// 15, 20, 30, 45, 55
+		
+		// リストから偶数の要素をすべて削除
+		
+		// リストの全要素の合計を計算して表示
+
+	}
+
+}

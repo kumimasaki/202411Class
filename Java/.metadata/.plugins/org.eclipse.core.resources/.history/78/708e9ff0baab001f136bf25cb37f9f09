@@ -1,0 +1,15 @@
+package lesson3_3.string_builder_ex;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		// 確認用
+	    System.out.println("０１２３４５６７８９０１２３４５６７８９←インデクス番号");
+	    System.out.println("１２３４５６７８９０１２３４５６７８９０←文字数");
+
+	    
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package lesson3_3.math_ex;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// 最大を求める
+		System.out.println(Math.max(22, 80));
+		// 切り上げ
+		// 切り下げ
+		// 四捨五入
+		// 累乗
+	}
+
+}

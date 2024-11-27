@@ -1,0 +1,13 @@
+package lesson3_3.regex_ex;
+
+public class Ex1 {
+
+	public static void main(String[] args) {
+		
+		String str = "Aoasle";
+		
+		// Stringクラスのmatchesメソッド
+		System.out.println(str.matches("A.*le"));
+	}
+
+}

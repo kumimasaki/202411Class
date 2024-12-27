@@ -1,0 +1,43 @@
+.parent-box{
+    /* 幅 */
+    width: 1000px;
+    /* 高さ */
+    height: 800px;
+    /* 背景色 */
+    background-color: yellow;
+    /* 後で書く */
+    position: relative;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.box1{
+    background-color: red;
+    /* z-index用 */
+    /* position: absolute;
+    top: 0;
+    z-index: 100; */
+}
+
+.box2{
+    background-color: blue;
+    /* 最初に書く */
+    /* position: relative; */
+    /* 左にずらしたい */
+    /* left: 300px; */
+    /* 空中に浮いた */
+    position: absolute;
+    /* 初期値を決める */
+    top: 0;
+    /* 親の位置からずらしてみる */
+    left: 300px;
+    /* z-index: 500 */
+}
+
+.box3{
+    background-color: green;
+}

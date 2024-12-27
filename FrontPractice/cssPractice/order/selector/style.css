@@ -1,0 +1,34 @@
+* {
+    font-size: 20px;
+}
+
+/* idの指定 */
+#li-color{
+    color: red;
+    font-size: 40px;
+}
+
+/* クラスを指定して色をblue */
+.text-color{
+    color: blue;
+}
+
+/*idを指定して色をred*/
+#contents{
+    color: red;
+}
+
+/*クラスを指定して色をblue*/
+.section{
+    color: blue;
+}
+
+/* 箇条書きの点を消す方法 */
+ul{
+    list-style: none;
+}
+
+/* リンクの下線を消す */
+a{
+    text-decoration: none;
+}
